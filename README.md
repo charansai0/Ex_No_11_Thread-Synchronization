@@ -213,7 +213,7 @@ public class MainActivity extends AppCompatActivity {
 ## Output:
 ![output](https://github.com/charansai0/Ex_No_11_Thread-Synchronization/blob/main/j11%201.png)
 
-![output]()
+![output](https://github.com/charansai0/Ex_No_11_Thread-Synchronization/blob/main/j11%202.png)
 
 
 
