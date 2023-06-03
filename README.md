@@ -1,5 +1,5 @@
 # Ex_No_11_Thread-Synchronization
-Develop a program to perform Thread Synchronization using Android Studio
+Develop a program to perform Thread Synchronization using Android Studio 
 ## AIM:
 To Develop a program to perform Thread Synchronization using Android Studio.
 
